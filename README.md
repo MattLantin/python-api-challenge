@@ -14,4 +14,5 @@ Getting started
 Acknowledgements: 
 
 TA - Office Hours 
-Jupyter Notebook API Calls - https://www.youtube.com/watch?v=Dt-ANGHETfM&ab_channel=unSkript
+Jupyter Notebook; 
+ API Calls - https://www.youtube.com/watch?v=Dt-ANGHETfM&ab_channel=unSkript
