@@ -9,3 +9,9 @@ Getting started
   1. Clone repository
   2. Open jupyter Notebook file
   3. Run all cells
+
+
+Acknowledgements: 
+
+TA - Office Hours 
+Jupyter Notebook API Calls - https://www.youtube.com/watch?v=Dt-ANGHETfM&ab_channel=unSkript
